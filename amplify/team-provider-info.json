@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-brickwig-dev-84730-authRole",
+      "UnauthRoleArn": "arn:aws:iam::298740387862:role/amplify-brickwig-dev-84730-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::298740387862:role/amplify-brickwig-dev-84730-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-brickwig-dev-84730-deployment",
+      "UnauthRoleName": "amplify-brickwig-dev-84730-unauthRole",
+      "StackName": "amplify-brickwig-dev-84730",
+      "StackId": "arn:aws:cloudformation:us-east-2:298740387862:stack/amplify-brickwig-dev-84730/cdd918b0-212b-11ec-8d11-02bd3c7f8164",
+      "AmplifyAppId": "d2byx0haia64yq"
+    }
+  }
+}
