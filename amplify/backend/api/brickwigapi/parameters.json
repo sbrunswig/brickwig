@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "brickwigapi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authbrickwig4672826b",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
